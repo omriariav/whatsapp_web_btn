@@ -1,0 +1,24 @@
+{
+   "background": {
+      "scripts": [ "background.js" ],
+      "persistent": false
+   },
+   "icons": {
+      "16": "icons/16x16.png",
+      "48": "icons/48x48.png",
+      "128": "icons/128x128.png"
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "icons/19x19.png",
+         "38": "icons/38x38.png"
+      },
+      "default_title": "Whatsapp for web launcher"
+   },
+   "description": "Unofficial Whatsapp for Web Launcher",
+   "homepage_url": "http://www.twitter.com/omriariav",
+   "manifest_version": 2,
+   "name": "Unofficial Whatsapp for Web Launcher",
+   "short_name": "Unofficial browser button to launch Whatsapp for Web",
+   "version": "1.0"
+}
